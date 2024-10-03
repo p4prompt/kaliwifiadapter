@@ -5,6 +5,6 @@ git clone https://github.com/p4prompt/kaliwifiadapter/
 
 cd kaliwifiadapter
 
-chmod =x kaliwifiadapter
+chmod =x run.sh
 
-./kaliwifiadapter
+./run.sh
